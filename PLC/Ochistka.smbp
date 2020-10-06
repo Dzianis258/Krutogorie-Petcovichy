@@ -65554,9 +65554,9 @@
             <LadderElements>
               <LadderEntity>
                 <ElementType>NegatedContact</ElementType>
-                <Descriptor>%M480</Descriptor>
+                <Descriptor>%M482</Descriptor>
                 <Comment />
-                <Symbol>OFF_DKS_SHLUZ_ASP_16</Symbol>
+                <Symbol>OFF_DKS_SHLUZ_ASP_21</Symbol>
                 <Row>0</Row>
                 <Column>1</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
@@ -65648,7 +65648,7 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>ANDN  %M480</InstructionLine>
+                <InstructionLine>ANDN  %M482</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
