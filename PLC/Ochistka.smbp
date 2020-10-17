@@ -9,7 +9,7 @@
     <Pous>
       <ProgramOrganizationUnits>
         <Name>Input_A1</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>1</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -2337,7 +2337,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>Input_A1_1</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>2</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -5799,7 +5799,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>Input_A1_2</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>3</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -9207,7 +9207,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>Input_A1_3</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>4</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -12669,7 +12669,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>Input_A1_4</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>5</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -16131,7 +16131,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>Input_A1_5</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>6</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -19593,7 +19593,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>Input_A1_6</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>7</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -20679,7 +20679,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>Output_A1</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>8</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -22377,7 +22377,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>Output_A1_7</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>9</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -25839,7 +25839,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>Output_A1_8</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>10</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -26696,7 +26696,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>KONVEER_2</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>11</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -28223,7 +28223,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>KONVEER_25</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>12</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -29505,7 +29505,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>KONVEER_29_1_1</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>13</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -31111,7 +31111,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>KONVEER_29_1_2</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>14</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -32717,7 +32717,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>KONVEER_29_2_1</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>15</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -34323,7 +34323,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>KONVEER_29_2_2</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>16</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -35929,7 +35929,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>KONVEER_29_3</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>17</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -37535,7 +37535,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>KONVEER_29_4_1</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>18</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -39141,7 +39141,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>KONVEER_29_4_2</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>19</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -40743,7 +40743,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>NORIA_3</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>20</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -44245,7 +44245,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>NORIA_9</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>22</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -46011,7 +46011,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>NORIA_12</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>23</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -47790,7 +47790,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>NORIA_18</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>24</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -49627,7 +49627,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>NORIA_22</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>25</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -51473,7 +51473,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>NORIA_26</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>26</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -53227,7 +53227,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>NORIA_30_1</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>27</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -54976,7 +54976,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>NORIA_30_2</Name>
-        <SectionNumber>21</SectionNumber>
+        <SectionNumber>28</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -56691,7 +56691,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>MUZ_4</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>29</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -57872,7 +57872,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>OCHISTKA_7</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>30</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -59046,7 +59046,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>VIBROTABLE_15</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>31</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -60227,7 +60227,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>FAN_PNEVMOTABLE_15</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>32</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -61404,7 +61404,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>ASP_16</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>33</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -62968,7 +62968,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>ASP_5</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>34</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -64511,7 +64511,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>ASP_8</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>35</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -66082,7 +66082,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>ASP_21_1</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>36</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -67663,7 +67663,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>PREDPUSKOVAY</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>37</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -67726,7 +67726,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>DWPT_10_1</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>38</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -67754,7 +67754,7 @@
                 <Comment>Положение 1 2-хходовой заслонки (поз.10.1)</Comment>
                 <Symbol>DWPT_10_1_TO_TRIER_11</Symbol>
                 <Row>0</Row>
-                <Column>3</Column>
+                <Column>4</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -67791,28 +67791,12 @@
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
-                <Column>6</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
-                <Column>5</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
                 <ElementType>NegatedContact</ElementType>
                 <Descriptor>%M63</Descriptor>
                 <Comment>Положение 2 двухходовой заслонки (поз.10.1)</Comment>
                 <Symbol>RUN_DWPT_10_1_TO_BUNKER_13</Symbol>
                 <Row>0</Row>
-                <Column>4</Column>
+                <Column>5</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -67822,7 +67806,7 @@
                 <Symbol>RUN_DWPT_10_1_TO_TRIER_11</Symbol>
                 <Row>1</Row>
                 <Column>2</Column>
-                <ChosenConnection>Up, Down, Left</ChosenConnection>
+                <ChosenConnection>Up, Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>VerticalLine</ElementType>
@@ -67848,13 +67832,46 @@
                 <Symbol>USE_TRIER_11</Symbol>
                 <Row>2</Row>
                 <Column>2</Column>
-                <ChosenConnection>Up, Left</ChosenConnection>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>VerticalLine</ElementType>
                 <Row>2</Row>
                 <Column>1</Column>
                 <ChosenConnection>Up, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>1</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Down</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NegatedContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>2</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>0</Row>
+                <Column>3</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
             </LadderElements>
             <InstructionLines>
@@ -67875,7 +67892,19 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>OR    %M520</InstructionLine>
+                <InstructionLine>AND   %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>OR(   %M520</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>ANDN  %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>)</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -67888,6 +67917,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M63</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -67926,7 +67959,7 @@
                 <Comment>Положение 2 2-хходовой заслонки (поз.10.1)</Comment>
                 <Symbol>DWPT_10_1_TO_BUNKER_13</Symbol>
                 <Row>0</Row>
-                <Column>3</Column>
+                <Column>4</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -67963,28 +67996,12 @@
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
-                <Column>6</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
-                <Column>5</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
                 <ElementType>NegatedContact</ElementType>
                 <Descriptor>%M62</Descriptor>
                 <Comment>Положение 1 двухходовой заслонки (поз.10.1)</Comment>
                 <Symbol>RUN_DWPT_10_1_TO_TRIER_11</Symbol>
                 <Row>0</Row>
-                <Column>4</Column>
+                <Column>5</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -67994,7 +68011,7 @@
                 <Symbol>RUN_DWPT_10_1_TO_BUNKER_13</Symbol>
                 <Row>1</Row>
                 <Column>2</Column>
-                <ChosenConnection>Up, Down, Left</ChosenConnection>
+                <ChosenConnection>Up, Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>VerticalLine</ElementType>
@@ -68020,13 +68037,46 @@
                 <Symbol>USE_TRIER_11</Symbol>
                 <Row>2</Row>
                 <Column>2</Column>
-                <ChosenConnection>Up, Left</ChosenConnection>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>VerticalLine</ElementType>
                 <Row>2</Row>
                 <Column>1</Column>
                 <ChosenConnection>Up, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>1</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Down</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NegatedContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>2</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>0</Row>
+                <Column>3</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
             </LadderElements>
             <InstructionLines>
@@ -68047,7 +68097,19 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>ORN   %M520</InstructionLine>
+                <InstructionLine>AND   %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>OR(N  %M520</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>ANDN  %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>)</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -68060,6 +68122,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M62</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -68340,7 +68406,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>DWPT_10_2</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>39</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -68368,7 +68434,7 @@
                 <Comment>Положение 1 2-хходовой заслонки (поз.10.2)</Comment>
                 <Symbol>DWPT_10_2_TO_BUNKER_13</Symbol>
                 <Row>0</Row>
-                <Column>3</Column>
+                <Column>4</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -68405,28 +68471,12 @@
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
-                <Column>6</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
-                <Column>5</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
                 <ElementType>NegatedContact</ElementType>
                 <Descriptor>%M68</Descriptor>
                 <Comment>Положение 2 двухходовой заслонки (поз.10.2)</Comment>
                 <Symbol>RUN_DWPT_10_2_TO_NORIA_18</Symbol>
                 <Row>0</Row>
-                <Column>4</Column>
+                <Column>5</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -68436,7 +68486,7 @@
                 <Symbol>RUN_DWPT_10_2_TO_BUNKER_13</Symbol>
                 <Row>1</Row>
                 <Column>2</Column>
-                <ChosenConnection>Up, Down, Left</ChosenConnection>
+                <ChosenConnection>Up, Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>VerticalLine</ElementType>
@@ -68462,13 +68512,46 @@
                 <Symbol>USE_PNEVMOTABLE</Symbol>
                 <Row>2</Row>
                 <Column>2</Column>
-                <ChosenConnection>Up, Left</ChosenConnection>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>VerticalLine</ElementType>
                 <Row>2</Row>
                 <Column>1</Column>
                 <ChosenConnection>Up, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>1</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Down</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NegatedContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>2</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>0</Row>
+                <Column>3</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
             </LadderElements>
             <InstructionLines>
@@ -68489,7 +68572,19 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>OR    %M518</InstructionLine>
+                <InstructionLine>AND   %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>OR(   %M518</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>ANDN  %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>)</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -68502,6 +68597,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M68</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -68540,7 +68639,7 @@
                 <Comment>Положение 2 2-хходовой заслонки (поз.10.2)</Comment>
                 <Symbol>DWPT_10_2_TO_NORIA_18</Symbol>
                 <Row>0</Row>
-                <Column>3</Column>
+                <Column>4</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -68577,28 +68676,12 @@
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
-                <Column>6</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
-                <Column>5</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
                 <ElementType>NegatedContact</ElementType>
                 <Descriptor>%M67</Descriptor>
                 <Comment>Положение 1 двухходовой заслонки (поз.10.2)</Comment>
                 <Symbol>RUN_DWPT_10_2_TO_BUNKER_13</Symbol>
                 <Row>0</Row>
-                <Column>4</Column>
+                <Column>5</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -68608,7 +68691,7 @@
                 <Symbol>RUN_DWPT_10_1_TO_BUNKER_13</Symbol>
                 <Row>1</Row>
                 <Column>2</Column>
-                <ChosenConnection>Up, Down, Left</ChosenConnection>
+                <ChosenConnection>Up, Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>VerticalLine</ElementType>
@@ -68634,13 +68717,46 @@
                 <Symbol>USE_PNEVMOTABLE</Symbol>
                 <Row>2</Row>
                 <Column>2</Column>
-                <ChosenConnection>Up, Left</ChosenConnection>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>VerticalLine</ElementType>
                 <Row>2</Row>
                 <Column>1</Column>
                 <ChosenConnection>Up, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NegatedContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>2</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>1</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Down</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>0</Row>
+                <Column>3</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
             </LadderElements>
             <InstructionLines>
@@ -68661,7 +68777,19 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>ORN   %M518</InstructionLine>
+                <InstructionLine>AND   %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>OR(N  %M518</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>ANDN  %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>)</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -68674,6 +68802,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M67</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -68954,7 +69086,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>DWPT_10_3</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>40</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -68982,7 +69114,7 @@
                 <Comment>Положение 1 2-хходовой заслонки (поз.10.3)</Comment>
                 <Symbol>DWPT_10_3_TO_KONVEER_25</Symbol>
                 <Row>0</Row>
-                <Column>3</Column>
+                <Column>4</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -69019,28 +69151,12 @@
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
-                <Column>6</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
-                <Column>5</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
                 <ElementType>NegatedContact</ElementType>
                 <Descriptor>%M73</Descriptor>
                 <Comment>Положение 2 двухходовой заслонки (поз.10.3)</Comment>
                 <Symbol>RUN_DWPT_10_3__TO_BIG_BAG_23</Symbol>
                 <Row>0</Row>
-                <Column>4</Column>
+                <Column>5</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -69050,7 +69166,7 @@
                 <Symbol>RUN_DWPT_10_3_TO_KONVEER_25</Symbol>
                 <Row>1</Row>
                 <Column>2</Column>
-                <ChosenConnection>Up, Down, Left</ChosenConnection>
+                <ChosenConnection>Up, Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>VerticalLine</ElementType>
@@ -69082,7 +69198,40 @@
                 <Symbol>USE_BUNKER_27</Symbol>
                 <Row>2</Row>
                 <Column>2</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>1</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Down</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NegatedContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>2</Row>
+                <Column>3</Column>
                 <ChosenConnection>Up, Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>0</Row>
+                <Column>3</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
             </LadderElements>
             <InstructionLines>
@@ -69103,7 +69252,19 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>OR    %M535</InstructionLine>
+                <InstructionLine>AND   %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>OR(   %M535</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>ANDN  %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>)</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -69116,6 +69277,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M73</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -69154,7 +69319,7 @@
                 <Comment>Положение 2 2-хходовой заслонки (поз.10.3)</Comment>
                 <Symbol>DWPT_10_3_TO_BIG_BAG_23</Symbol>
                 <Row>0</Row>
-                <Column>3</Column>
+                <Column>4</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -69191,28 +69356,12 @@
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
-                <Column>6</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
-                <Column>5</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
                 <ElementType>NegatedContact</ElementType>
                 <Descriptor>%M72</Descriptor>
                 <Comment>Положение 1 двухходовой заслонки (поз.10.3)</Comment>
                 <Symbol>RUN_DWPT_10_3_TO_KONVEER_25</Symbol>
                 <Row>0</Row>
-                <Column>4</Column>
+                <Column>5</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -69222,7 +69371,7 @@
                 <Symbol>RUN_DWPT_10_3__TO_BIG_BAG_23</Symbol>
                 <Row>1</Row>
                 <Column>2</Column>
-                <ChosenConnection>Up, Down, Left</ChosenConnection>
+                <ChosenConnection>Up, Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>VerticalLine</ElementType>
@@ -69248,13 +69397,46 @@
                 <Symbol>USE_BIG_BAG_23</Symbol>
                 <Row>2</Row>
                 <Column>2</Column>
-                <ChosenConnection>Up, Left</ChosenConnection>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>VerticalLine</ElementType>
                 <Row>2</Row>
                 <Column>1</Column>
                 <ChosenConnection>Up, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>1</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Down</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NegatedContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>2</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>0</Row>
+                <Column>3</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
             </LadderElements>
             <InstructionLines>
@@ -69275,7 +69457,19 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>OR    %M536</InstructionLine>
+                <InstructionLine>AND   %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>OR(   %M536</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>ANDN  %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>)</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -69288,6 +69482,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M72</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -69568,7 +69766,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>TWPT_19</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>41</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -70010,37 +70208,61 @@
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
-                <ElementType>NegatedContact</ElementType>
-                <Descriptor>%M522</Descriptor>
-                <Comment />
-                <Symbol>USE_PROTRAVITEL</Symbol>
-                <Row>0</Row>
-                <Column>0</Column>
-                <ChosenConnection>Down, Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>0</Row>
-                <Column>1</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
                 <ElementType>NormalContact</ElementType>
                 <Descriptor>%M554</Descriptor>
                 <Comment />
                 <Symbol>TBTN_FLOW_TO_BUNKER_13</Symbol>
                 <Row>1</Row>
                 <Column>0</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NegatedContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>0</Row>
+                <Column>1</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>1</Row>
+                <Column>1</Column>
                 <ChosenConnection>Up, Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M522</Descriptor>
+                <Comment />
+                <Symbol>USE_PROTRAVITEL</Symbol>
+                <Row>0</Row>
+                <Column>0</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
             </LadderElements>
             <InstructionLines>
               <InstructionLineEntity>
-                <InstructionLine>LDN   %M522</InstructionLine>
+                <InstructionLine>LD    %M522</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>OR    %M554</InstructionLine>
+                <InstructionLine>ANDN  %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>OR(   %M554</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>)</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -70048,7 +70270,7 @@
                 <Comment />
               </InstructionLineEntity>
             </InstructionLines>
-            <Name />
+            <Name>FLOW_TO_BUNKER_13</Name>
             <MainComment />
             <Label />
             <IsLadderSelected>true</IsLadderSelected>
@@ -70098,12 +70320,6 @@
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>0</Row>
-                <Column>2</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
                 <ElementType>NegatedContact</ElementType>
                 <Descriptor>%M522</Descriptor>
                 <Comment />
@@ -70119,7 +70335,7 @@
                 <Symbol>USE_BIG_BAG_23</Symbol>
                 <Row>0</Row>
                 <Column>1</Column>
-                <ChosenConnection>Down, Left, Right</ChosenConnection>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>Coil</ElementType>
@@ -70143,6 +70359,24 @@
                 <ElementType>Line</ElementType>
                 <Row>1</Row>
                 <Column>1</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NegatedContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>0</Row>
+                <Column>2</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>1</Row>
+                <Column>2</Column>
                 <ChosenConnection>Up, Left</ChosenConnection>
               </LadderEntity>
             </LadderElements>
@@ -70156,7 +70390,19 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>OR    %M555</InstructionLine>
+                <InstructionLine>ANDN  %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>OR(   %M555</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>)</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -70164,7 +70410,7 @@
                 <Comment />
               </InstructionLineEntity>
             </InstructionLines>
-            <Name />
+            <Name>FLOW_TO__NORIA_22</Name>
             <MainComment />
             <Label />
             <IsLadderSelected>true</IsLadderSelected>
@@ -70225,14 +70471,6 @@
                 <Symbol />
                 <Row>0</Row>
                 <Column>3</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
-                <Column>2</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -70266,7 +70504,7 @@
                 <ElementType>Line</ElementType>
                 <Row>1</Row>
                 <Column>1</Column>
-                <ChosenConnection>Up, Left</ChosenConnection>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>NormalContact</ElementType>
@@ -70275,6 +70513,24 @@
                 <Symbol>USE_BUNKER_27</Symbol>
                 <Row>0</Row>
                 <Column>1</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>1</Row>
+                <Column>2</Column>
+                <ChosenConnection>Up, Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NegatedContact</ElementType>
+                <Descriptor>%M251</Descriptor>
+                <Comment />
+                <Symbol>HAND_MODE</Symbol>
+                <Row>0</Row>
+                <Column>2</Column>
                 <ChosenConnection>Down, Left, Right</ChosenConnection>
               </LadderEntity>
             </LadderElements>
@@ -70288,7 +70544,19 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>OR    %M556</InstructionLine>
+                <InstructionLine>ANDN  %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>OR(   %M556</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M251</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>)</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -70296,7 +70564,7 @@
                 <Comment />
               </InstructionLineEntity>
             </InstructionLines>
-            <Name />
+            <Name>FLOW_TO_KONVEER_25</Name>
             <MainComment />
             <Label />
             <IsLadderSelected>true</IsLadderSelected>
@@ -70344,14 +70612,6 @@
                 <Symbol />
                 <Row>0</Row>
                 <Column>8</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
-                <Column>7</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -70410,6 +70670,15 @@
                 <Column>0</Column>
                 <ChosenConnection>Up, Right</ChosenConnection>
               </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>7</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
             </LadderElements>
             <InstructionLines>
               <InstructionLineEntity>
@@ -70430,6 +70699,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M112</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -70492,14 +70765,6 @@
                 <Comment />
                 <Symbol />
                 <Row>0</Row>
-                <Column>7</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
                 <Column>6</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
@@ -70537,6 +70802,15 @@
                 <Column>4</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>7</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
             </LadderElements>
             <InstructionLines>
               <InstructionLineEntity>
@@ -70553,6 +70827,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M115</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -70615,14 +70893,6 @@
                 <Comment />
                 <Symbol />
                 <Row>0</Row>
-                <Column>7</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
                 <Column>6</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
@@ -70660,6 +70930,15 @@
                 <Column>4</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>7</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
             </LadderElements>
             <InstructionLines>
               <InstructionLineEntity>
@@ -70676,6 +70955,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M113</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -70732,12 +71015,6 @@
               <LadderEntity>
                 <ElementType>Line</ElementType>
                 <Row>0</Row>
-                <Column>7</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>0</Row>
                 <Column>6</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
@@ -70783,6 +71060,15 @@
                 <Column>0</Column>
                 <ChosenConnection>Up, Right</ChosenConnection>
               </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>7</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
             </LadderElements>
             <InstructionLines>
               <InstructionLineEntity>
@@ -70803,6 +71089,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M116</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -70827,15 +71117,6 @@
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
-                <ElementType>NegatedContact</ElementType>
-                <Descriptor>%M112</Descriptor>
-                <Comment>Положение 1 двигателя 23М1 3-хходовой заслонки (поз.19)</Comment>
-                <Symbol>MOTOR_1_TWPT_19_IN_POLOJENII_1</Symbol>
-                <Row>0</Row>
-                <Column>1</Column>
-                <ChosenConnection>Down, Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
                 <ElementType>NormalContact</ElementType>
                 <Descriptor>%M118</Descriptor>
                 <Comment>Положение 2 двигателя 23М1 3-хходовой заслонки FK160 (поз.19)</Comment>
@@ -70845,15 +71126,6 @@
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
-                <ElementType>NegatedContact</ElementType>
-                <Descriptor>%M113</Descriptor>
-                <Comment>Положение 2 двигателя 23М1 3-хходовой заслонки (поз.19)</Comment>
-                <Symbol>MOTOR_1_TWPT_19_IN_POLOJENII_2</Symbol>
-                <Row>1</Row>
-                <Column>1</Column>
-                <ChosenConnection>Up, Down, Left</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
                 <ElementType>NormalContact</ElementType>
                 <Descriptor>%M119</Descriptor>
                 <Comment>Положение 1 двигателя 24М1 3-хходовой заслонки FK160 (поз.19)</Comment>
@@ -70861,15 +71133,6 @@
                 <Row>2</Row>
                 <Column>0</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>NegatedContact</ElementType>
-                <Descriptor>%M115</Descriptor>
-                <Comment>Положение 1 двигателя 24М1 3-хходовой заслонки (поз.19)</Comment>
-                <Symbol>MOTOR_2_TWPT_19_IN_POLOJENII_1</Symbol>
-                <Row>2</Row>
-                <Column>1</Column>
-                <ChosenConnection>Up, Down, Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>NormalContact</ElementType>
@@ -70882,6 +71145,33 @@
               </LadderEntity>
               <LadderEntity>
                 <ElementType>NegatedContact</ElementType>
+                <Descriptor>%M112</Descriptor>
+                <Comment>Положение 1 двигателя 23М1 3-хходовой заслонки (поз.19)</Comment>
+                <Symbol>MOTOR_1_TWPT_19_IN_POLOJENII_1</Symbol>
+                <Row>0</Row>
+                <Column>1</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NegatedContact</ElementType>
+                <Descriptor>%M113</Descriptor>
+                <Comment>Положение 2 двигателя 23М1 3-хходовой заслонки (поз.19)</Comment>
+                <Symbol>MOTOR_1_TWPT_19_IN_POLOJENII_2</Symbol>
+                <Row>1</Row>
+                <Column>1</Column>
+                <ChosenConnection>Up, Down, Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NegatedContact</ElementType>
+                <Descriptor>%M115</Descriptor>
+                <Comment>Положение 1 двигателя 24М1 3-хходовой заслонки (поз.19)</Comment>
+                <Symbol>MOTOR_2_TWPT_19_IN_POLOJENII_1</Symbol>
+                <Row>2</Row>
+                <Column>1</Column>
+                <ChosenConnection>Up, Down, Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NegatedContact</ElementType>
                 <Descriptor>%M116</Descriptor>
                 <Comment>Положение 2 двигателя 24М1 3-хходовой заслонки (поз.19)</Comment>
                 <Symbol>MOTOR_2_TWPT_19_IN_POLOJENII_2</Symbol>
@@ -70890,49 +71180,55 @@
                 <ChosenConnection>Up, Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
-                <ElementType>Line</ElementType>
+                <ElementType>Timer</ElementType>
+                <Descriptor>%TM113</Descriptor>
+                <Comment />
+                <Symbol>TM_ERR_TWPT</Symbol>
                 <Row>0</Row>
                 <Column>2</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
-                <ElementType>Timer</ElementType>
-                <Descriptor>%TM110</Descriptor>
-                <Comment />
-                <Symbol>TM_START_VIBROTABLE_15</Symbol>
+                <ElementType>Line</ElementType>
+                <Descriptor />
                 <Row>0</Row>
-                <Column>3</Column>
+                <Column>4</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>Line</ElementType>
+                <Descriptor />
                 <Row>0</Row>
-                <Column>9</Column>
+                <Column>5</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>Line</ElementType>
-                <Row>0</Row>
-                <Column>8</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>0</Row>
-                <Column>7</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
+                <Descriptor />
                 <Row>0</Row>
                 <Column>6</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>Line</ElementType>
+                <Descriptor />
                 <Row>0</Row>
-                <Column>5</Column>
+                <Column>7</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>Line</ElementType>
+                <Descriptor />
+                <Row>0</Row>
+                <Column>8</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>Line</ElementType>
+                <Descriptor />
+                <Row>0</Row>
+                <Column>9</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>SetCoil</ElementType>
@@ -70943,10 +71239,55 @@
                 <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
+              <LadderEntity>
+                <ElementType>ResetCoil</ElementType>
+                <Descriptor>%M555</Descriptor>
+                <Comment />
+                <Symbol>TBTN_FLOW_TO__NORIA_22</Symbol>
+                <Row>2</Row>
+                <Column>10</Column>
+                <ChosenConnection>Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>2</Row>
+                <Column>9</Column>
+                <ChosenConnection>Up, Down, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>ResetCoil</ElementType>
+                <Descriptor>%M554</Descriptor>
+                <Comment />
+                <Symbol>TBTN_FLOW_TO_BUNKER_13</Symbol>
+                <Row>1</Row>
+                <Column>10</Column>
+                <ChosenConnection>Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>1</Row>
+                <Column>9</Column>
+                <ChosenConnection>Up, Down, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>ResetCoil</ElementType>
+                <Descriptor>%M556</Descriptor>
+                <Comment />
+                <Symbol>TBTN_FLOW_TO_KONVEER_25</Symbol>
+                <Row>3</Row>
+                <Column>10</Column>
+                <ChosenConnection>Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>3</Row>
+                <Column>9</Column>
+                <ChosenConnection>Up, Right</ChosenConnection>
+              </LadderEntity>
             </LadderElements>
             <InstructionLines>
               <InstructionLineEntity>
-                <InstructionLine>BLK   %TM110</InstructionLine>
+                <InstructionLine>BLK   %TM113</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -71007,6 +71348,18 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>S     %M517</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>R     %M554</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>R     %M555</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>R     %M556</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -71131,7 +71484,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>SHIBER_28_1</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>42</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -71200,14 +71553,6 @@
                 <Comment />
                 <Symbol />
                 <Row>0</Row>
-                <Column>6</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
                 <Column>5</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
@@ -71261,6 +71606,15 @@
                 <Column>1</Column>
                 <ChosenConnection>Up, Right</ChosenConnection>
               </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
             </LadderElements>
             <InstructionLines>
               <InstructionLineEntity>
@@ -71293,6 +71647,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M155</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -71372,14 +71730,6 @@
                 <Comment />
                 <Symbol />
                 <Row>0</Row>
-                <Column>6</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
                 <Column>5</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
@@ -71433,6 +71783,15 @@
                 <Column>1</Column>
                 <ChosenConnection>Up, Right</ChosenConnection>
               </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
             </LadderElements>
             <InstructionLines>
               <InstructionLineEntity>
@@ -71465,6 +71824,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M154</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -71745,7 +72108,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>SHIBER_28_2</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>43</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -71814,14 +72177,6 @@
                 <Comment />
                 <Symbol />
                 <Row>0</Row>
-                <Column>6</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
                 <Column>5</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
@@ -71875,6 +72230,15 @@
                 <Column>1</Column>
                 <ChosenConnection>Up, Right</ChosenConnection>
               </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
             </LadderElements>
             <InstructionLines>
               <InstructionLineEntity>
@@ -71907,6 +72271,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M163</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -71986,14 +72354,6 @@
                 <Comment />
                 <Symbol />
                 <Row>0</Row>
-                <Column>6</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
                 <Column>5</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
@@ -72047,6 +72407,15 @@
                 <Column>1</Column>
                 <ChosenConnection>Up, Right</ChosenConnection>
               </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
             </LadderElements>
             <InstructionLines>
               <InstructionLineEntity>
@@ -72079,6 +72448,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M162</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -72359,7 +72732,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>SHIBER_28_3</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>44</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -72428,14 +72801,6 @@
                 <Comment />
                 <Symbol />
                 <Row>0</Row>
-                <Column>6</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
                 <Column>5</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
@@ -72474,6 +72839,15 @@
                 <Column>2</Column>
                 <ChosenConnection>Up, Left</ChosenConnection>
               </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
             </LadderElements>
             <InstructionLines>
               <InstructionLineEntity>
@@ -72502,6 +72876,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M170</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -72581,14 +72959,6 @@
                 <Comment />
                 <Symbol />
                 <Row>0</Row>
-                <Column>6</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Comment />
-                <Symbol />
-                <Row>0</Row>
                 <Column>5</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
@@ -72627,6 +72997,15 @@
                 <Column>2</Column>
                 <ChosenConnection>Up, Left</ChosenConnection>
               </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M0</Descriptor>
+                <Comment>Пуск системы</Comment>
+                <Symbol>PUSK_SISTEM</Symbol>
+                <Row>0</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
             </LadderElements>
             <InstructionLines>
               <InstructionLineEntity>
@@ -72655,6 +73034,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>ANDN  %M169</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M0</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -73133,7 +73516,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>TRIER_11_1</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>45</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -74314,7 +74697,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>TRIER_11_2</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>46</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -75493,7 +75876,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>DA_ALL</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>47</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -76243,7 +76626,7 @@
                 <ElementType>Timer</ElementType>
                 <Descriptor>%TM112</Descriptor>
                 <Comment />
-                <Symbol />
+                <Symbol>TM_SIRENA</Symbol>
                 <Row>0</Row>
                 <Column>1</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
@@ -76376,7 +76759,7 @@
       </ProgramOrganizationUnits>
       <ProgramOrganizationUnits>
         <Name>MODES</Name>
-        <SectionNumber>0</SectionNumber>
+        <SectionNumber>48</SectionNumber>
         <Rungs>
           <RungEntity>
             <LadderElements>
@@ -76387,7 +76770,7 @@
                 <Symbol>DVU_BIG_BAG_23</Symbol>
                 <Row>0</Row>
                 <Column>0</Column>
-                <ChosenConnection>Down, Left, Right</ChosenConnection>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>ResetCoil</ElementType>
@@ -76435,24 +76818,6 @@
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>0</Row>
-                <Column>3</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>0</Row>
-                <Column>2</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>0</Row>
-                <Column>1</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
                 <ElementType>ResetCoil</ElementType>
                 <Descriptor>%M557</Descriptor>
                 <Comment />
@@ -76474,7 +76839,55 @@
                 <Symbol>DVU_BUNKERA_27</Symbol>
                 <Row>1</Row>
                 <Column>0</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M483</Descriptor>
+                <Comment />
+                <Symbol>MODE_OCHISTKA</Symbol>
+                <Row>0</Row>
+                <Column>3</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M557</Descriptor>
+                <Comment />
+                <Symbol>MODE_TRAVLENIA</Symbol>
+                <Row>1</Row>
+                <Column>3</Column>
                 <ChosenConnection>Up, Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M536</Descriptor>
+                <Comment />
+                <Symbol>USE_BIG_BAG_23</Symbol>
+                <Row>0</Row>
+                <Column>1</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M535</Descriptor>
+                <Comment />
+                <Symbol>USE_BUNKER_27</Symbol>
+                <Row>1</Row>
+                <Column>1</Column>
+                <ChosenConnection>Up, Left</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>1</Row>
+                <Column>2</Column>
+                <ChosenConnection>Up, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>Line</ElementType>
+                <Row>0</Row>
+                <Column>2</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
               </LadderEntity>
             </LadderElements>
             <InstructionLines>
@@ -76483,7 +76896,31 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>OR    %M240</InstructionLine>
+                <InstructionLine>AND   %M536</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>OR(   %M240</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M535</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>)</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND(  %M483</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>OR    %M557</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>)</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -76521,7 +76958,9 @@
       <Allocation>Manual</Allocation>
       <ForcedCount>2000</ForcedCount>
     </MemoryWordsMemoryAllocation>
-    <TimersMemoryAllocation />
+    <TimersMemoryAllocation>
+      <ForcedCount>114</ForcedCount>
+    </TimersMemoryAllocation>
     <CountersMemoryAllocation />
     <RegistersMemoryAllocation />
     <DrumsMemoryAllocation />
@@ -81653,8 +82092,16 @@
       <TimerTM>
         <Address>%TM112</Address>
         <Index>112</Index>
+        <Symbol>TM_SIRENA</Symbol>
         <Type>TP</Type>
         <Preset>5</Preset>
+        <Base>OneSecond</Base>
+      </TimerTM>
+      <TimerTM>
+        <Address>%TM113</Address>
+        <Index>113</Index>
+        <Symbol>TM_ERR_TWPT</Symbol>
+        <Preset>3</Preset>
         <Base>OneSecond</Base>
       </TimerTM>
     </Timers>
@@ -81772,6 +82219,8 @@
       <AutoSaveRamOnEeprom>true</AutoSaveRamOnEeprom>
       <WatchdogPeriod>250</WatchdogPeriod>
     </CpuBehavior>
+    <InstListBufferSize>17432</InstListBufferSize>
+    <ProgramBufferSize>139490</ProgramBufferSize>
     <TraceTimeBase>Time5Sec</TraceTimeBase>
     <UserFunctionPous />
     <UserFunctionBlockPous />
@@ -82391,10 +82840,10 @@
             <InputAssemblySize>0</InputAssemblySize>
             <InputAssemblyInstance>0</InputAssemblyInstance>
           </EthernetIpEntity>
-          <ProgrammingProtocolEnabled>false</ProgrammingProtocolEnabled>
-          <EthernetIpAdapterEnabled>false</EthernetIpAdapterEnabled>
-          <ModbusServerEnabled>false</ModbusServerEnabled>
-          <AutoDiscoveryProtocolEnabled>false</AutoDiscoveryProtocolEnabled>
+          <ProgrammingProtocolEnabled>true</ProgrammingProtocolEnabled>
+          <EthernetIpAdapterEnabled>true</EthernetIpAdapterEnabled>
+          <ModbusServerEnabled>true</ModbusServerEnabled>
+          <AutoDiscoveryProtocolEnabled>true</AutoDiscoveryProtocolEnabled>
         </EthernetConfiguration>
         <MaxCartridge>2</MaxCartridge>
         <C1TranslationX>170</C1TranslationX>
@@ -84455,10 +84904,10 @@
       <CanView>true</CanView>
     </ProjectProtection>
     <ApplicationProtection>
-      <Active>false</Active>
-      <Password />
-      <DownloadActive>false</DownloadActive>
-      <DownloadPassword />
+      <Active>true</Active>
+      <Password>ea59878496354831a0343737484044b614d9891f42594815cb1e48201bd6529f</Password>
+      <DownloadActive>true</DownloadActive>
+      <DownloadPassword>ea59878496354831a0343737484044b614d9891f42594815cb1e48201bd6529f</DownloadPassword>
     </ApplicationProtection>
     <RemoteIpAddresses>
       <IpAddresses />
